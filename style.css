@@ -1,0 +1,86 @@
+#hrId
+{
+
+    color: black;
+    font-size: 178px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#secId
+{  
+    
+    color: black;
+    font-size: 178px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#minId
+{  
+    
+    color: black;
+    font-size: 178px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#content
+{   
+    margin: 10px auto 10px 16px;
+    
+}
+#top
+{    
+width: 770px;
+border: 15px solid lightblue;
+border-radius: 70px;
+margin: 0px auto 10px auto;
+background-color: white;
+
+}
+
+#head
+{   width:250px;
+    margin: 95px auto 10px auto;
+    color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body
+{
+background-color: lightseagreen;
+}
+#p
+{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+width: 230px;
+margin: 10px auto 10px auto;
+}
+p
+{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button
+{   background-color: lightgray;
+    height: 40px;
+    font-size: 20px;
+border-radius: 70px;
+font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+button:hover
+{
+    background-color: lightblue;
+}
+.sep
+{
+    font-size: 200px;
+    display: inline;
+}
+input{
+    width: 70px;
+    height: 50px;
+}
+#menu
+{   width: 245px;
+    margin: 10px auto 10px auto;
+}
